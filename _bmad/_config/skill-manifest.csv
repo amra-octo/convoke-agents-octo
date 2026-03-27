@@ -98,3 +98,5 @@ canonicalId,name,description,module,path,install_to_bmad
 "wds-6-asset-generation","wds-6-asset-generation","Generate visual and text assets from specifications through AI-powered creative production","wds","_bmad/wds/workflows/wds-6-asset-generation/SKILL.md","true"
 "wds-7-design-system","wds-7-design-system","Create, import, browse, and maintain design system components and tokens","wds","_bmad/wds/workflows/wds-7-design-system/SKILL.md","true"
 "wds-8-product-evolution","wds-8-product-evolution","Brownfield improvements — the full WDS pipeline in miniature for existing products","wds","_bmad/wds/workflows/wds-8-product-evolution/SKILL.md","true"
+
+"bmad-enhance-initiatives-backlog","bmad-enhance-initiatives-backlog","Manage RICE initiatives backlog — triage review findings, rescore existing items, or bootstrap new backlogs.","bme","_bmad/bme/_enhance/workflows/initiatives-backlog/SKILL.md","true"

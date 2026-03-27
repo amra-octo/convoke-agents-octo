@@ -1,0 +1,19 @@
+submodule_name: _vortex
+description: Vortex Pattern - Contextualize, Empathize, Synthesize, Hypothesize, Externalize, Sensitize, and Systematize streams
+module: bme
+output_folder: '{project-root}/_bmad-output/vortex-artifacts'
+agents:
+  - stack-detective
+  - model-curator
+  - readiness-analyst
+  - review-coach
+workflows:
+  - stack-detection
+  - model-generation
+  - gap-analysis
+  - delta-report
+  - model-review
+  - full-analysis
+  - accuracy-validation
+version: 3.0.4
+migration_history: []
