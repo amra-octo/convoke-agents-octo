@@ -33,14 +33,19 @@ workflows:
   - learning-card
   - pivot-patch-persevere
   - vortex-navigation
-version: 3.0.4
+version: 3.2.1
 user_name: '{user}'
 communication_language: en
 party_mode_enabled: true
 core_module: bme
 migration_history:
-  - timestamp: '2026-02-27T13:26:05.803Z'
+  - timestamp: 2026-02-27T13:26:05.803Z
     from_version: 1.5.2
     to_version: 1.6.2
     migrations_applied:
       - 1.5.x-to-1.6.0
+  - timestamp: 2026-04-13T06:35:02.621Z
+    from_version: 3.0.4
+    to_version: 3.2.1
+    migrations_applied:
+      - 3.0.x-to-3.1.0

@@ -7,6 +7,10 @@ agents:
   - model-curator
   - readiness-analyst
   - review-coach
+  - stack-detective
+  - model-curator
+  - readiness-analyst
+  - review-coach
 workflows:
   - stack-detection
   - model-generation
@@ -15,5 +19,12 @@ workflows:
   - model-review
   - full-analysis
   - accuracy-validation
-version: 3.0.4
+  - stack-detection
+  - model-generation
+  - gap-analysis
+  - delta-report
+  - model-review
+  - full-analysis
+  - accuracy-validation
+version: 3.2.1
 migration_history: []
